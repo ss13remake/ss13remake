@@ -28,7 +28,7 @@ namespace Decalshadertest
         public Form1()
         {
             InitializeComponent();
-            mediadir = Directory.GetCurrentDirectory() + @"\..\..\..\..\Media";
+            mediadir = Directory.GetCurrentDirectory() + @"\..\..\..\..\Resources";
         }
 
 
