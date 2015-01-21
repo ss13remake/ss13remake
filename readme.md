@@ -11,7 +11,7 @@ The original sprites for the game, created by Adam Riches, have been withheld fo
 * Art: Keelin, Tan Teck Weng
 * Icons: Some item icons were lifted from TG-Station - thanks
 * Badly botched coder art: Volundr/Spoogemonster
-* Design and Concepts: Keelin, Supernorn (Adam Riches), Volundr/Spoogemonster, Ten Teck Weng
+* Design and Concepts: Keelin, Supernorn (Adam Riches), Tan Teck Weng, Volundr/Spoogemonster
 * 3d Modelling: Synchronic (Joseph Riches)
 * 3d Rigging and animation: Hamshot (Ben Guilbert)
 
